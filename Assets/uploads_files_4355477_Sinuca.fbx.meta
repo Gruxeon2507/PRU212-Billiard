@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 82905e94174dfaa42969edb01967ad7c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BorrachaPreta
+    second: {fileID: 2100000, guid: a3045f299a1225743bd21f74eff2bbcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Ch\xE3o"
+    second: {fileID: 2100000, guid: 15fa00b5a0dc26349a592ae174b76647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conversao
+    second: {fileID: 2100000, guid: e8b77eb28e04a17488194d6a8176a4b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feltro
+    second: {fileID: 2100000, guid: fab92d8b2ad4213408069a8f159e4065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampada
+    second: {fileID: 2100000, guid: 5d49924b1aed70e42bcd9800dc133d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira
+    second: {fileID: 2100000, guid: 3eed79a738012a84fa5fca932563487c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.001
+    second: {fileID: 2100000, guid: a96e6431ee241c9409d4e29e92031410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraTaco
+    second: {fileID: 2100000, guid: 9510b6c673c600748b7bf001c0e59718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraTacoBranco
+    second: {fileID: 2100000, guid: 4ee665832712ca440895f34cc7131802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraTacoPreto
+    second: {fileID: 2100000, guid: 8c5998c5c3006ef49a091a6d4cda9d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_Preta
+    second: {fileID: 2100000, guid: 99222dc554fa79a4ea3261578da15934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira_Preta.001
+    second: {fileID: 2100000, guid: 7b0bf8833d89cfe458b989814bb6371b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola1
+    second: {fileID: 2100000, guid: af2b22afd13b04e438010b0a36d88a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola2
+    second: {fileID: 2100000, guid: 5a644ebd4a65370489938bbc9644bb02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola3
+    second: {fileID: 2100000, guid: 8f576f44b58c1c84dba6de2cc0b784db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola4
+    second: {fileID: 2100000, guid: 66a2549acb1bcc5449687094f50913ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola5
+    second: {fileID: 2100000, guid: 90c7b9ab7cbd7004299f5e91c7420997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola5.001
+    second: {fileID: 2100000, guid: b2b8a38e6a6696f4fb8f991138505aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBola7
+    second: {fileID: 2100000, guid: c30e1b91c7f93224d8c2ab6a30e32eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaAmarelo
+    second: {fileID: 2100000, guid: 680e55547549e314ba84bc4ffdbc3e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaAzul
+    second: {fileID: 2100000, guid: c52f4db1a6b7fad4e813bcfff24e0004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaPreta
+    second: {fileID: 2100000, guid: b3a4791b3f4fcf449b1618707050a977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaRosa
+    second: {fileID: 2100000, guid: 55379435866cf994f90ffcf1d69c6093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaRoxa
+    second: {fileID: 2100000, guid: ece9f4d2c41ba864b9b365fbfaaf6d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaVerde
+    second: {fileID: 2100000, guid: 10bf3aae0e131ee428ac7033cab3c4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolaVermelha
+    second: {fileID: 2100000, guid: 71851160d40c04c45bc11cc31f52efe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialBolas
+    second: {fileID: 2100000, guid: 319a19411d9e4414480fd6170f196fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 339ecfaab6179d847ad1932be525badb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalDourado
+    second: {fileID: 2100000, guid: 160ac9b062e5fbc4dbca216cc35fe48e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticoBranco
+    second: {fileID: 2100000, guid: eef0661d68d31ae4ab4ff682ca99e89d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticoPreto
+    second: {fileID: 2100000, guid: 03e119267dd2f084a89c499de1c3918c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticoVermelho
+    second: {fileID: 2100000, guid: bcd8961ec307d594fb19e8ff95de69b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Preto
+    second: {fileID: 2100000, guid: 09d4b62eb93601545a067fd0a8600a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vermelho
+    second: {fileID: 2100000, guid: 0a4cb5ba482c1cb479ddbc866d04bcab, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
