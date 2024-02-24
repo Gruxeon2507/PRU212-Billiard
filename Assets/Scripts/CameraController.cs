@@ -53,8 +53,7 @@ public class CameraController : MonoBehaviour
             hitDirection = new Vector3(hitDirection.x, 0, hitDirection.z).normalized;
 
             cueBall.gameObject.GetComponent<Rigidbody>().AddForce(hitDirection * power, ForceMode.Impulse);
-
-            //Debug.Break();
+            gameManager.SwitchCameras();
         }
     }
 

@@ -43,9 +43,9 @@ public class GameManager : MonoBehaviour
         
     }
 
-    public void SwitchCamera()
+    public void SwitchCameras()
     {
-        if (currentCamera != cueStickCamera)
+        if (currentCamera == cueStickCamera)
         {
             cueStickCamera.enabled = false;
             overheadCamera.enabled = true;
