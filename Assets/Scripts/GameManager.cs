@@ -26,16 +26,36 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] Transform headPosition;
 
+    [SerializeField] Camera cueStickCamera;
+    [SerializeField] Camera overheadCamera;
+    Camera currentCamera;
+
     // Start is called before the first frame update
     void Start()
     {
         currentPlayer = CurrentPlayer.Player1;
+        currentCamera = cueStickCamera;
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    public void SwitchCamera()
+    {
+        if (currentCamera != cueStickCamera)
+        {
+            cueStickCamera.enabled = false;
+            overheadCamera.enabled = true;
+            currentCamera = overheadCamera;
+        } else
+        {
+            cueStickCamera.enabled = true;
+            overheadCamera.enabled = false;
+            currentCamera = cueStickCamera;
+        }
     }
 
     public void RestartTheGame()
@@ -146,7 +166,7 @@ public class GameManager : MonoBehaviour
             else
             {
                 player2BallRemaining--;
-                player1BallsText.text = "Player 2 Balls Remaining: " + player2BallRemaining;
+                player2BallsText.text = "Player 2 Balls Remaining: " + player2BallRemaining;
                 if (player2BallRemaining <= 0)
                 {
                     isWinningShotForPlayer2 = true;
